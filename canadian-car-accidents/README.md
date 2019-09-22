@@ -52,7 +52,7 @@ Reading in data, storing inside collisionData variable.
 
 
 ```python
-collisionData = pd.read_csv("NCDB_1999_to_2016.csv", low_memory=False)
+collisionData = pd.read_csv("dataset/NCDB_1999_to_2016.csv", low_memory=False)
 ```
 
 Finding the size of the dataset by utilizing the shape function.
@@ -150,7 +150,7 @@ plt.show()
 ```
 
 
-![png](output_20_0.png)
+![png](images/output_20_0.png)
 
 
 __Conclusion:__
@@ -195,7 +195,7 @@ plt.show()
 ```
 
 
-![png](output_24_0.png)
+![png](images/output_24_0.png)
 
 
 __Conclusion:__
@@ -242,7 +242,7 @@ plt.show()
 ```
 
 
-![png](output_28_0.png)
+![png](images/output_28_0.png)
 
 
 __Conclusion:__
@@ -295,7 +295,7 @@ plt.show()
 ```
 
 
-![png](output_32_0.png)
+![png](images/output_32_0.png)
 
 
 __Conclusion:__
@@ -346,7 +346,7 @@ plt.show()
 ```
 
 
-![png](output_37_0.png)
+![png](images/output_37_0.png)
 
 
 __Conclusion:__
@@ -490,7 +490,7 @@ plt.show()
 ```
 
 
-![png](output_46_0.png)
+![png](images/output_46_0.png)
 
 
 Since there is such a large discrepancy in two entries; traffic signals fully operational, and stop signs I'm curious the what the proportion of total crashes are responsible for these two configurations.
@@ -628,7 +628,7 @@ plt.show()
 ```
 
 
-![png](output_52_0.png)
+![png](images/output_52_0.png)
 
 
 __Intermediate Results:__
@@ -754,7 +754,7 @@ plt.show()
 ```
 
 
-![png](output_58_0.png)
+![png](images/output_58_0.png)
 
 
 __Conclusion:__
@@ -812,7 +812,7 @@ plt.show()
 ```
 
 
-![png](output_63_0.png)
+![png](images/output_63_0.png)
 
 
 __Conclusion:__
@@ -866,7 +866,7 @@ plt.show()
 ```
 
 
-![png](output_67_0.png)
+![png](images/output_67_0.png)
 
 
 __Conclusion:__
